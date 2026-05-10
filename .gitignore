@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+dist/
+.env
+
+# Node
+node_modules/
+dist/
+.env
+.env.local
+
+# Supabase
+supabase/.temp/
+supabase/functions/.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.idea/
+*.swp
