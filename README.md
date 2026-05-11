@@ -17,7 +17,7 @@ Agentic learning platform — MVP v0.1
 
 ### 1. Clone & install
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/GooseGustin/neptune
 cd neptune
 ```
 
